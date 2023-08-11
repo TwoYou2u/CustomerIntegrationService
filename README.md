@@ -1,3 +1,3 @@
 # CustomerIntegrationService
 
-It is a E-commerce project develope bt TwoYou!
+It is a E-commerce project develope by TwoYou!
